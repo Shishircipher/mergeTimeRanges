@@ -1,0 +1,22 @@
+{
+  "name": "mergetimeranges",
+  "version": "1.0.0",
+  "description": "NodeJS module which exports a function mergeTimeRanges such that it merges all such ranges into non-overlapping, sorted intervals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shishircipher/mergeTimeRanges.git"
+  },
+  "keywords": [
+    "mergeTimeRanges"
+  ],
+  "author": "Shishir",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Shishircipher/mergeTimeRanges/issues"
+  },
+  "homepage": "https://github.com/Shishircipher/mergeTimeRanges#readme"
+}
