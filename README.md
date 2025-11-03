@@ -8,4 +8,4 @@ However:
 
 Ranges may overlap or touch.
 Some may be separated by small gaps.
-Gaps smaller than a given threshold (in milliseconds) should be treated as continuous and merged.s
+Gaps smaller than a given threshold (in milliseconds) should be treated as continuous and merged.
